@@ -1,0 +1,16 @@
+{
+  "skills": [
+    {
+      "name": "python-patterns",
+      "path": "skills/python-patterns/SKILL.md"
+    },
+    {
+      "name": "django-tdd",
+      "path": "skills/django-tdd/SKILL.md"
+    },
+    {
+      "name": "api-design",
+      "path": "skills/api-design/SKILL.md"
+    }
+  ]
+}
