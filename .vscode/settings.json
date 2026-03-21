@@ -1,0 +1,7 @@
+{
+  "github.copilot.chat.codeGeneration.instructions": [
+    {
+      "text": "This workspace contains 116 reusable development skills in the skills/ directory. Use #<skill-name> in chat to reference a specific skill's guidance. Available skills are in .github/prompts/ as prompt files."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+---
+mode: 'agent'
+description: 'Codified expertise for quality control, non-conformance investigation, root cause analysis, corrective action, and supplier quality management in regulated manufacturing. Informed by quality engineers with 15+ years experience across FDA, IATF 16949, and AS9100 environments. Includes NCR lifecycle management, CAPA systems, SPC interpretation, and audit methodology. Use when investigating non-conformances, performing root cause analysis, managing CAPAs, interpreting SPC data, or handling supplier quality issues'
+---
+
+Apply the patterns and guidance from the [quality-nonconformance skill](../../skills/quality-nonconformance/SKILL.md) to help with this task.

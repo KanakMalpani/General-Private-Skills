@@ -1,0 +1,6 @@
+---
+mode: 'agent'
+description: 'Codified expertise for demand forecasting, safety stock optimization, replenishment planning, and promotional lift estimation at multi-location retailers. Informed by demand planners with 15+ years experience managing hundreds of SKUs. Includes forecasting method selection, ABC/XYZ analysis, seasonal transition management, and vendor negotiation frameworks. Use when forecasting demand, setting safety stock, planning replenishment, managing promotions, or optimizing inventory levels'
+---
+
+Apply the patterns and guidance from the [inventory-demand-planning skill](../../skills/inventory-demand-planning/SKILL.md) to help with this task.
